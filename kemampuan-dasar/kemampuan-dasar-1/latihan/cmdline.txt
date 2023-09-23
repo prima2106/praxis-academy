@@ -1,0 +1,59 @@
+1.date => Saturday, September 23, 2023 12:55:13 AM
+2.exit => keluar dari power shell
+3.help => berisi tentang topic, short description, long description, online help,dll.
+4.hostname => DESKTOP-0DBV8HP
+5.nbtstats=> Displays protocol statistics and current TCP/IP connections using NBT
+(NetBIOS over TCP/IP).
+6.pause=> Press Enter to continue...:
+7.ping example.microsoft.com=>Pinging example.microsoft.com [20.76.201.171] with 32 bytes of data:
+Reply from 20.76.201.171: bytes=32 time=169ms TTL=111
+Reply from 20.76.201.171: bytes=32 time=170ms TTL=111
+Reply from 20.76.201.171: bytes=32 time=170ms TTL=111
+Reply from 20.76.201.171: bytes=32 time=170ms TTL=111
+
+Ping statistics for 20.76.201.171:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 169ms, Maximum = 170ms, Average = 169ms
+
+8.systeminfo =>Host Name:                 DESKTOP-0DBV8HP
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          DESKTOP
+
+9.timeout /t 10=> Waiting for  10 seconds, press a key to continue ...
+10.bitsadmin=>BITSADMIN version 3.0
+BITS administration utility.
+(C) Copyright Microsoft Corp.
+11.cd => untuk masuk kesebuah folder
+12.d:=> berpindah ke direktori D
+13.cmd =>Microsoft Windows [Version 10.0.19045.3448]
+(c) Microsoft Corporation. All rights reserved.
+14.color e =>merubah warna huruf kuning dan background hitam pada powershell
+15. delete disk=> menghapus disk
+16.dir => melihat isi dari direktori
+17.label =>Volume in drive C: has no label
+Volume Serial Number is 54E7-D973
+18.netstat -e -s =>Interface Statistics
+
+                           Received            Sent
+
+Bytes                     969236354       155695662
+Unicast packets              444060         1256376
+Non-unicast packets            2547            3402
+Discards                         21               0
+Errors                            0               0
+Unknown protocols                 0
+19.ipconfig=>Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   IPv4 Address. . . . . . . . . . . : 192.168.18.142
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.18.1
+20.color d =>merubah warna huruf ungu dan background hitam pada powershell
